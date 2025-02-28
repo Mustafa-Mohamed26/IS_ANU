@@ -27,8 +27,8 @@ This repository contains implementations of fundamental **AI search algorithms**
 Clone the repository and run any algorithm:
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-search-algorithms.git
-cd ai-search-algorithms
+git clone https://https://github.com/Mustafa-Mohamed26/IS_ANU.git
+cd IS_ANU
 
 # Run an example algorithm
 python bfs.py  # Example: Run BFS
